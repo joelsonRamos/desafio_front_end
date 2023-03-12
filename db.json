@@ -1,0 +1,95 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "iPhone",
+            "descricao":"",
+            "price": "1000.00"
+        },
+        {
+            "id": 2,
+            "name": "iPad",
+            "descricao":"",
+            "price": "2000.00"
+        },
+        {
+            "id": 3,
+            "name": "iPod Touch",
+            "descricao":"",
+            "price": "3000.00"
+        },
+        {
+            "id": 4,
+            "name": "iPod Touch 2G",
+            "descricao":"",
+            "price": "4000.00"
+        },
+        {
+            "id": 5,
+            "name": "iPod Touch 3G",
+            "descricao":"",
+            "price": "5000.00"
+        },
+        {
+            "id": 6,
+            "name": "Tv Samsung",
+            "descricao":"",
+            "price": "6000.00"
+        },
+        {
+            "id": 7,
+            "name": "Frigorífico Combinado ",
+            "descricao":"(Low Frost - 176.3 cm - 308 L - Branco)",
+            "price": "399.99"
+        },
+        {
+            "id": 8,
+            "name": "Portátil Híbrido LENOVO ",
+            "descricao":"(15.6''  RAM: 8 GB - 512 GB SSD )",
+            "price": "883.11"
+        },
+        {
+            "id": 9,
+            "name": "Portátil ASUS ",
+            "descricao":"(15.6''-Core i5-1135G7-RAM:16 GB - 512GB SSD )",
+            "price": "849.00"
+        },
+        {
+            "id": 10,
+            "name": "SAMSUNG Galaxy S23 ",
+            "descricao":"5G (6.1'' - 8 GB - 256 GB - Bege)",
+            "price": "1049.00"
+        },
+        {
+            "id": 11,
+            "name": "SAMSUNG Galaxy Z ",
+            "descricao":"Fold 4 5G (7.6'' - 12 GB - 256 GB - Preto)",
+            "price": "1659.00"
+        },
+        {
+            "id": 12,
+            "name": "TV TCL 65P635 ",
+            "descricao":"(LED - 65'' - 165 cm - 4K Ultra HD - Smart TV)",
+            "price": "399.00"
+        },
+        {
+            "id": 13,
+            "name": "TV LG 75QNED816QA ",
+            "descricao":"(QNED - 75'' - 189 cm - 4K Ultra HD - Smart TV)",
+            "price": "1049.00"
+        },
+        {
+            "id": 14,
+            "name": "Kit Máquina Fotográfica ",
+            "descricao":"Reflex NIKON D7100 + 18-140G VR (DX)",
+            "price": "651.27"
+        },
+        {
+            "id": 15,
+            "name": "Máquina Fotográfica Instantânea ",
+            "descricao":"FUJIFILM Instax Mini 11 ",
+            "price": "79.97"
+        }
+
+    ]
+}
